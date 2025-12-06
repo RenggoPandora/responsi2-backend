@@ -882,7 +882,6 @@ Project ini dibuat untuk keperluan tugas Responsi 2 Mobile Programming.
 
 ---
 
-**Dibuat dengan ❤️ menggunakan CodeIgniter 4**
 
 ## Server Requirements
 
